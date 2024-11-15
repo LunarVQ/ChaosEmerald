@@ -1,5 +1,4 @@
 #include <windows.h>
-#include <stdio.h>
 #include <math.h>
 
 #define WIDTH 800
