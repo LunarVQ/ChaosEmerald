@@ -1,0 +1,3 @@
+C:/Users/ThatO/CLionProjects/windowsdonut/cmake-build-debug/CMakeFiles/windowsdonut.dir
+C:/Users/ThatO/CLionProjects/windowsdonut/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ThatO/CLionProjects/windowsdonut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
